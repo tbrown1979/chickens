@@ -28,9 +28,9 @@ function cycleimage(){
 $(document).ready( function() {
   // images = '!{chickens}'
   // images = jQuery.parseJSON( '!{images}' );
-  counter=1;
+  counter=0;
   rotator = setInterval(
       function() {
         cycleimage();
-      }, 8000 );
+      }, 6000 );
 });
