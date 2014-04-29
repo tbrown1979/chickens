@@ -1,7 +1,12 @@
+h1 {
+    color:"White";
+}
+
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-color: #000000;
+  color:White;
 }
 
 a {

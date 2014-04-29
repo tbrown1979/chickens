@@ -28,7 +28,7 @@ function cycleimage(){
 $(document).ready( function() {
   // images = '!{chickens}'
   // images = jQuery.parseJSON( '!{images}' );
-  counter=0;
+  counter=1;
   rotator = setInterval(
       function() {
         cycleimage();
