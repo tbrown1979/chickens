@@ -32,5 +32,5 @@ $(document).ready( function() {
   rotator = setInterval(
       function() {
         cycleimage();
-      }, 1000 );
+      }, 8000 );
 });
